@@ -15,7 +15,7 @@ This project is to prove the technique by finding out whether the reduction of s
 # Files
 
 DataAnalysis.ipynb: the notebook where I analyzed data and created visual representations of the data analyzed
-DataTyding.ipnyb: the notebook where I tidied the data (from data.csv to data_tidy.csv)
+DataTyding.ipnyb: the notebook where I tidied the data (from data.csv to data_tidy.csv)<br>
 data.csv: the raw data from the collection of data from experiments
 data_tidy.csv: the "clean" data of data.csv
 report.pdf: the full report of the project
