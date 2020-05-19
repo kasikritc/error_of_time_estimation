@@ -18,4 +18,5 @@ DataAnalysis.ipynb: the notebook where I analyzed data and created visual repres
 DataTyding.ipnyb: the notebook where I tidied the data (from data.csv to data_tidy.csv)<br>
 data.csv: the raw data from the collection of data from experiments<br>
 data_tidy.csv: the "clean" data of data.csv<br>
+intv_summary.csv: the summary of the data of each interval<br>
 report.pdf: the full report of the project<br>
