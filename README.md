@@ -1,5 +1,4 @@
-# error_of_time_estimation
-Welcome to the Error of Time Estimation Project!
+# Welcome to the Error of Time Estimation Project!
 
 This is my Secondary 3 Mathematics Project which I integrated my knowledge data science into it.
 
